@@ -11,3 +11,10 @@ image_yscale = 1;
 /// @DnDArgument : "x" "-5"
 /// @DnDArgument : "x_relative" "1"
 x += -5;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 13525608
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "lewalk"
+lewalk = 1;
